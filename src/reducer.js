@@ -1,6 +1,7 @@
 export const initialState = {
 	basket: [],
 };
+// creating the reducer function
 
 const reducer = (State, action) => {
 	switch (action.type) {
