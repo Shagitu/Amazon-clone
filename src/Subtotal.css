@@ -9,18 +9,18 @@
 	border: 1px solid #dddddd;
 	border-radius: 3px;
 }
-.Subtotal__gift {
+.subtotal__gift {
 	display: flex;
 	align-items: center;
 	margin-top: 13px;
 }
-.Subtotal__gift > input {
+.subtotal__gift > input {
 	margin-right: 5px;
 }
 .Subtotal > button {
 	background: #f0c14b;
 	border-radius: 2px;
-	width: 100px;
+	width: 100%;
 	height: 30px;
 	border: 1px solid;
 	margin-top: 10px;
